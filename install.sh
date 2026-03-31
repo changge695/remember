@@ -1,6 +1,6 @@
 #!/bin/bash
 
-REMOTE_URL="https://raw.githubusercontent.com/changge695/remember/refs/heads/main/async"
+REMOTE_URL="https://raw.githubusercontent.com/changge695/remember/refs/heads/main/sync"
 LOCAL_FILE="async"
 LOG_FILE="async.log"
 
